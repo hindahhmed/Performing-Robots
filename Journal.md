@@ -25,15 +25,6 @@ This task proved tricky as we struggled to figure out how to secure the smaller 
 
 Once the wheels were in place, we moved on to securing the battery. We drilled four holes near the center of the board and used zip ties to attach the battery as close to the center as possible. This placement was critical to maintaining the balance of the robot, given the weight of the battery. Despite the challenges, our efforts paid off, and we’re now in a strong position to continue with the next steps of the build.
 
-## Photos 
-![1](https://github.com/user-attachments/assets/3a37a415-02a9-4912-97c7-4cbf8fa1d47e)
-![2](https://github.com/user-attachments/assets/ce4d1aea-b70a-4991-a50f-b2308d4a853b)
-![3](https://github.com/user-attachments/assets/c6882c0d-f4de-4055-aa28-b4a57f85df52)
-![4](https://github.com/user-attachments/assets/db628477-2c33-40fc-9509-34da7ff3ce65)
-![5](https://github.com/user-attachments/assets/ccf22cc6-eaad-4472-aa5a-de7d9b84011e)
-![6](https://github.com/user-attachments/assets/6a8114ba-101c-4b1c-86e2-636d4aa424ac)
-![7](https://github.com/user-attachments/assets/1d012f39-39f1-4ad2-b73d-ae25e3637cac)
-
 
 ## 1 October 2024 
 ### Presentation Questions
@@ -46,3 +37,11 @@ Toomie Presentation Question:
 
 Hiroshi Ishiguro’s Geminoid HI-1 was designed to closely mimic human behavior and appearance, but how do you think the ability to replicate subtle human traits, like micro-expressions or body language, impacts our emotional connection or discomfort with robots? Could this technology blur the lines between humans and machines in ways we aren’t fully prepared for?
 
+## Photos 
+![1](https://github.com/user-attachments/assets/3a37a415-02a9-4912-97c7-4cbf8fa1d47e)
+![2](https://github.com/user-attachments/assets/ce4d1aea-b70a-4991-a50f-b2308d4a853b)
+![3](https://github.com/user-attachments/assets/c6882c0d-f4de-4055-aa28-b4a57f85df52)
+![4](https://github.com/user-attachments/assets/db628477-2c33-40fc-9509-34da7ff3ce65)
+![5](https://github.com/user-attachments/assets/ccf22cc6-eaad-4472-aa5a-de7d9b84011e)
+![6](https://github.com/user-attachments/assets/6a8114ba-101c-4b1c-86e2-636d4aa424ac)
+![7](https://github.com/user-attachments/assets/1d012f39-39f1-4ad2-b73d-ae25e3637cac)
