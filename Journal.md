@@ -24,14 +24,13 @@ We began by carefully measuring the exact placement for each wheel and drilling 
 This task proved tricky as we struggled to figure out how to secure the smaller pieces of wood without damaging them during the drilling process. Fortunately, Professor Shiloh stepped in and provided a lot of guidance on how to position the nails properly to avoid any damage. With his help, we were able to drill adjacent nails and successfully attach the wood, creating a solid foundation for the smaller wheels.
 
 Once the wheels were in place, we moved on to securing the battery. We drilled four holes near the center of the board and used zip ties to attach the battery as close to the center as possible. This placement was critical to maintaining the balance of the robot, given the weight of the battery. Despite the challenges, our efforts paid off, and we’re now in a strong position to continue with the next steps of the build.
-![IMG_0497](https://github.com/user-attachments/assets/e34a2fe0-4251-4745-9450-e7d471f5f2b6)
-![IMG_0503](https://github.com/user-attachments/assets/ad9e1684-4a41-49e0-9bcf-3f1f452240b7)
-![IMG_0505](https://github.com/user-attachments/assets/9a44a956-fb6f-459b-9631-10bd788215b6)
-![IMG_0496](https://github.com/user-attachments/assets/bab6029b-ec32-478f-b37e-516d7206b6b7)
-![IMG_0502](https://github.com/user-attachments/assets/22467b87-152e-4a35-be18-3030d0b02c6d)
-![IMG_0500](https://github.com/user-attachments/assets/5eac30ae-3d91-4c9a-9b8f-29d160a54488)
-![IMG_0507](https://github.com/user-attachments/assets/f6d0aa9d-eac5-4540-b94e-2bf6ce21921d)
-![IMG_0508](https://github.com/user-attachments/assets/fba041b1-6fae-4fe4-a14b-cf6cbd583734)
+![1](https://github.com/user-attachments/assets/3a37a415-02a9-4912-97c7-4cbf8fa1d47e)
+![2](https://github.com/user-attachments/assets/ce4d1aea-b70a-4991-a50f-b2308d4a853b)
+![3](https://github.com/user-attachments/assets/c6882c0d-f4de-4055-aa28-b4a57f85df52)
+![4](https://github.com/user-attachments/assets/db628477-2c33-40fc-9509-34da7ff3ce65)
+![5](https://github.com/user-attachments/assets/ccf22cc6-eaad-4472-aa5a-de7d9b84011e)
+![6](https://github.com/user-attachments/assets/6a8114ba-101c-4b1c-86e2-636d4aa424ac)
+![7](https://github.com/user-attachments/assets/1d012f39-39f1-4ad2-b73d-ae25e3637cac)
 
 
 
