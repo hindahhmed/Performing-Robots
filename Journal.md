@@ -29,8 +29,9 @@ Once the wheels were in place, we moved on to securing the battery. We drilled f
 ![IMG_0883](https://github.com/user-attachments/assets/e298a187-4fe1-4204-ba5c-fa6064576967)
 ![IMG_0885](https://github.com/user-attachments/assets/71d830a2-eccc-49ad-a54f-902a1321be46)
 ![IMG_0884](https://github.com/user-attachments/assets/15298a82-a3f8-4344-a4f2-69d871895b1a)
-![IMG_0886](https://github.com/user-attachments/assets/10c7ce90![IMG_0889](https://github.com/user-attachments/assets/d4a55e2f-efa6-465c-a516-7dd5f5d87221)
--e5d2-434f-aeee-20f84debbdfe)![IMG_0888](https://github.com/user-attachments/assets/aca393f0-5463-4fcc-8452-9833cceaf1c0)![IMG_0887](https://github.com/user-attachments/assets/e05a5b80-b654-41d2-b8d2-dce6c512b657)
+![IMG_0886](https://github.com/user-attachments/assets/10c7ce90-e5d2-434f-aeee-20f84debbdfe)
+![IMG_0889](https://github.com/user-attachments/assets/d4a55e2f-efa6-465c-a516-7dd5f5d87221)
+![IMG_0888](https://github.com/user-attachments/assets/aca393f0-5463-4fcc-8452-9833cceaf1c0)![IMG_0887](https://github.com/user-attachments/assets/e05a5b80-b654-41d2-b8d2-dce6c512b657)
 
 
 
