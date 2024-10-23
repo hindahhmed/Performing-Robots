@@ -24,19 +24,16 @@ We began by carefully measuring the exact placement for each wheel and drilling 
 This task proved tricky as we struggled to figure out how to secure the smaller pieces of wood without damaging them during the drilling process. Fortunately, Professor Shiloh stepped in and provided a lot of guidance on how to position the nails properly to avoid any damage. With his help, we were able to drill adjacent nails and successfully attach the wood, creating a solid foundation for the smaller wheels.
 
 Once the wheels were in place, we moved on to securing the battery. We drilled four holes near the center of the board and used zip ties to attach the battery as close to the center as possible. This placement was critical to maintaining the balance of the robot, given the weight of the battery. Despite the challenges, our efforts paid off, and we’re now in a strong position to continue with the next steps of the build.
-
-![IMG_0498](https://github.com/user-attachments/assets/65b4aa3b-7bec-45d1-87b6-5b30cf135259)
-![IMG_0495](https://github.com/user-attachments/assets/05adbbc6-54ed-4d38-af92-407025f95ae5)
-
-![IMG_0507](https://github.com/user-attachments/assets/e6504722-0ece-4503-b63e-803e1662c0d4)
-![IMG_0505](https://github.com/user-attachments/assets/da054e82-63f3-43aa-845b-446d0d7582e5)
-![IMG_0503](https://github.com/user-attachments/assets/dd9d806f-b206-483a-ab89-bb738ed3de40)
-![IMG_0502](https://github.com/user-attachments/assets/0dec57c2-0d29-493b-ba90-027a3824bd41)
-![IMG_0500](https://github.com/user-attachments/assets/2e6d45ea-bf63-4b77-be74-66841a23ce1e)
-
+![IMG_0496](https://github.com/user-attachments/assets/abf4bd73-1e18-405b-995d-76a50dc93517)
+![IMG_0497](https://github.com/user-attachments/assets/b245991c-fc8a-4a5d-8488-74805622dbbd)
+![IMG_0508](https://github.com/user-attachments/assets/06e309db-6440-404c-b7ba-badcd5c9eab5)
+![IMG_0507](https://github.com/user-attachments/assets/a4ba129f-1d05-4e6d-856f-077342ff9d4f)
+![IMG_0505](https://github.com/user-attachments/assets/0af29459-4e5c-4f65-8833-4cbc30d01456)
+![IMG_0503](https://github.com/user-attachments/assets/a1f4247e-e4b7-433f-87af-000b9528a07f)
+![IMG_0500](https://github.com/user-attachments/assets/85cc7497-3836-49fb-8a46-af36b4796b04)
+![IMG_0502](https://github.com/user-attachments/assets/aaa64101-b48c-4012-b30c-69e92e915a23)
 
 
-![IMG_0508](https://github.com/user-attachments/assets/56fe56b2-676e-493a-a03c-8bf6a8c81021)
 
 ## 1 October 2024 
 ### Presentation Questions
