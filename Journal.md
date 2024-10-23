@@ -47,4 +47,6 @@ Toomie Presentation Question:
 
 Hiroshi Ishiguro’s Geminoid HI-1 was designed to closely mimic human behavior and appearance, but how do you think the ability to replicate subtle human traits, like micro-expressions or body language, impacts our emotional connection or discomfort with robots? Could this technology blur the lines between humans and machines in ways we aren’t fully prepared for?
 
+## 17 & 22 October 
 
+### Hind & Javeria Journal Entry: https://github.com/javeria-h/performingrobots/blob/main/journal.md 
