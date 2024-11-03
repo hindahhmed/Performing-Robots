@@ -1,4 +1,4 @@
-![C7F6CF14-F661-40D6-B8A1-2EB2208ECAC6](https://github.com/user-attachments/assets/68a9fa75-9389-4e82-bea1-81800f84f94d)## 24 September 2024 
+## 24 September 2024 
 ### Building the Robot Base  
 
 Last week, we began the process of assembling the base of our robot, focusing on the essential connection between the motor and the wheel. This step is crucial because the motor-to-wheel setup forms the core of the robot’s movement system, allowing it to translate motor rotation into forward or backward motion. I found this part of the build both challenging and informative, as it gave me a deeper understanding of how mechanical components come together to enable movement.
@@ -69,6 +69,6 @@ To mount the Arduino Mega, I laser-cut a small wooden piece, securing the Arduin
 
 In addition, we began work on our character's fan. We cut two thin wooden strips and mounted two small servo motors onto them, enabling us to program the fan to open and close as needed.
 
-![IMG_0987](https://github.com/user-attachments/assets/ecbe3d6e-5c0f-486a-95d1-d9906ca3f14f)
+![IMG_0987](https://github.com/user-attachments/assets/266c0873-e14a-4a5a-bddb-793ebe2ff075)
 
 
